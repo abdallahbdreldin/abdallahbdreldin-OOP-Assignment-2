@@ -1,4 +1,11 @@
 <Solution>
-  <Project Path="SRP-Refactoring/SRP-Refactoring.csproj" />
-  <Project Path="SRPLap/SRPLap.csproj" />
+  <Folder Name="/DesignPatterns/">
+    <File Path="linked.md" />
+    <Project Path="PatternsLab.Runner/PatternsLab.Runner.csproj" Id="3f572ad1-2294-4b4a-a209-ea9a7e911952" />
+    <Project Path="PatternsLab/PatternsLab.csproj" Id="424b4603-73b7-4a1d-aeba-57d632d739a2" />
+  </Folder>
+  <Folder Name="/SRP/">
+    <Project Path="SRP-Refactoring/SRP-Refactoring.csproj" />
+    <Project Path="SRPLap/SRPLap.csproj" />
+  </Folder>
 </Solution>
