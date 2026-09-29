@@ -7,6 +7,10 @@
   <Folder Name="/Inheritance/">
     <Project Path="LibrarySystem/LibrarySystem.csproj" Id="e663a12f-ab14-4f93-bd36-bf84b4e75d7c" />
   </Folder>
+  <Folder Name="/LeetCode/">
+    <File Path="leetcode.md" />
+    <Project Path="MaxVowelsInSubstring/MaxVowelsInSubstring.csproj" Id="c651ef6b-4a22-46d7-87e4-61eca5ddc2de" />
+  </Folder>
   <Folder Name="/SRP/">
     <Project Path="SRP-Refactoring/SRP-Refactoring.csproj" />
     <Project Path="SRPLap/SRPLap.csproj" />
